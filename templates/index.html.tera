@@ -1,0 +1,6 @@
+<!doctype html>
+<h1>Welcome to Simple Semantic Search System!</h1>
+<form action="/search" method="post">
+    <input type="text" name="query">
+    <input type="submit">
+</form>
